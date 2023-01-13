@@ -1,2 +1,2 @@
-# databricks-examples
-Example notebooks for demonstrating Databricks features. 
+# Databricks Examples
+A simple repo containing several notebooks that demonstrate how to use the latest Databricks features. 
